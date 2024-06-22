@@ -1,5 +1,5 @@
-**Boas vindas ao meu perfil**🩷🩷  
-Meu nome é Heloá Ferreira Batista 
+**Boas vindas ao meu perfil**💖        
+Meu nome é Heloá 
 
 Estou estudando na Alura    
 Estou me desenvolvendo na linguagem JavaScript    
